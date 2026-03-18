@@ -2,6 +2,7 @@
 
 ![OS](https://img.shields.io/ubuntu/v/ubuntu-wallpapers/noble)
 ![ROS_2](https://img.shields.io/ros/v/jazzy/rclcpp)
+![GAZEBO](https://img.shields.io/badge/gazebo%20%7C%20harmonic-v8.10.0-blue)
 
 This GitHub organization contains all the software used by Team 4 for the Robotic Systems Design Project (MSc Robotics 2025/26) at the University of Manchester.
 
