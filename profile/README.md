@@ -1,4 +1,4 @@
-# # AERO62520: Team 4 (2025/26)
+# AERO62520: Team 4 (2025/26)
 
 ![OS](https://img.shields.io/ubuntu/v/ubuntu-wallpapers/noble)
 ![ROS_2](https://img.shields.io/ros/v/jazzy/rclcpp)
