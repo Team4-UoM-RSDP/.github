@@ -13,7 +13,8 @@ This GitHub organization contains all the software used by Team 4 for the Roboti
 - [Stanley Simpson](https://github.com/stasim-sudo)
 
 ## Repos
-- [mission_sim](https://github.com/Team4-UoM-RSDP/mission_sim
-) - Gazebo Harmonic simulation of the robot and mission.
+- [mission_sim](https://github.com/Team4-UoM-RSDP/mission_sim) - Gazebo Harmonic simulation of the robot and mission.
+- [rvm_evidence](https://github.com/Team4-UoM-RSDP/rvm_evidence) - Evidence collected for requirements verification.
+- [design_files](https://github.com/Team4-UoM-RSDP/design_files) - CAD files for the project.
 
 ###### Team 4 – AERO62520 Robotic System Design Project 
