@@ -15,6 +15,9 @@ This GitHub organization contains all the software used by Team 4 for the Roboti
 - [Deep_cam](https://github.com/Team4-UoM-RSDP/Deep_cam) - Deep learning object recognition.
 - [LeoRoverAutonomousExploration](https://github.com/Team4-UoM-RSDP/LeoRoverAutonomousExploration) - Exploration and navigation for the Leo Rover.
 
+## Software Block Diagram
+![Software Block Diagram](software_block_diagram_v1.jpg)
+
 ## Team 4
 - [Lang Cheng](https://github.com/langchengg)
 - [Ling Feng](https://github.com/lingfeng0219)
