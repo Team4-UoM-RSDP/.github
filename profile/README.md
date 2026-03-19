@@ -1,6 +1,6 @@
 # AERO62520: Team 4 (2025/26)
 
-![OS](https://img.shields.io/ubuntu/v/ubuntu-wallpapers/noble)
+![OS](https://img.shields.io/badge/ubuntu%20%7C%20noble%20-%20v24.04.4-blue)
 ![ROS_2](https://img.shields.io/ros/v/jazzy/rclcpp)
 ![GAZEBO](https://img.shields.io/badge/gazebo%20%7C%20harmonic-v8.10.0-blue)
 
