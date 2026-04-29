@@ -6,14 +6,13 @@
 
 This GitHub organization contains all the software used by Team 4 for the Robotic Systems Design Project (MSc Robotics 2025/26) at the University of Manchester.
 
-## Repos
+## Main Repos
+- [nuc_ws](https://github.com/Team4-UoM-RSDP/nuc_ws) - The main ROS2 workspace for the NUC, used to orchestrate the mission.
+- [cobot_ws](https://github.com/Team4-UoM-RSDP/cobot_ws) - A ROS2 workspace for the myCobot 280pi, executing incoming joint and gripper commands, and following MoveIt2 trajectories from the NUC.
+- [rover_ws](https://github.com/Team4-UoM-RSDP/rover_ws) -  A ROS2 workspace for the Leo Rover v1.8, executing incoming velocity commands from the NUC.
 - [mission_sim](https://github.com/Team4-UoM-RSDP/mission_sim) - Gazebo Harmonic simulation of the robot and mission.
-- [rvm_evidence](https://github.com/Team4-UoM-RSDP/rvm_evidence) - Evidence collected for requirements verification.
-- [design_files](https://github.com/Team4-UoM-RSDP/design_files) - CAD files for the project.
-- [mycobot_280pi_ws](https://github.com/Team4-UoM-RSDP/mycobot_280pi_ws) - A ROS2 workspace for simulation and path planning with the myCobot 280pi.
-- [mycobot_280pi_control](https://github.com/Team4-UoM-RSDP/mycobot_280pi_control) - Controls the myCobot 280pi via pymycobot.
-- [Deep_cam](https://github.com/Team4-UoM-RSDP/Deep_cam) - Deep learning object recognition.
-- [LeoRoverAutonomousExploration](https://github.com/Team4-UoM-RSDP/LeoRoverAutonomousExploration) - Exploration and navigation for the Leo Rover.
+- [rvm_evidence](https://github.com/Team4-UoM-RSDP/rvm_evidence) - The Requirements Verification Matrix (RVM) and supporting evidence.
+- [design_files](https://github.com/Team4-UoM-RSDP/design_files) - CAD files produced for the project.
 
 ## Software Block Diagram
 ![Software Block Diagram](software_block_diagram_v1.jpg)
