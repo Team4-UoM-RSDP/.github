@@ -14,9 +14,6 @@ This GitHub organization contains all the software used by Team 4 for the Roboti
 - [rvm_evidence](https://github.com/Team4-UoM-RSDP/rvm_evidence) - The Requirements Verification Matrix (RVM) and supporting evidence.
 - [design_files](https://github.com/Team4-UoM-RSDP/design_files) - CAD files produced for the project.
 
-## Software Block Diagram
-![Software Block Diagram](software_block_diagram_v1.jpg)
-
 ## Team 4
 - [Lang Cheng](https://github.com/langchengg)
 - [Ling Feng](https://github.com/lingfeng0219)
